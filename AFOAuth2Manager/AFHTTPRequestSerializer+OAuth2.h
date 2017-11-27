@@ -31,6 +31,6 @@
 
  @param credential The OAuth2 credential
  */
-- (void)setAuthorizationHeaderFieldWithCredential:(AFOAuthCredential *)credential;
+- (void)setAuthorizationHeaderFieldWith:(AFOAuthCredential *)credential;
 
 @end
